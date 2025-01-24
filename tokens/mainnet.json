@@ -1542,6 +1542,126 @@
       "decimals": 18,
       "description": "Nutty the smoking squirrel is a meme token that was created to bring joy and laughter to the Alephium community.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTTY.png"
+    },
+    {
+      "id": "9b3070a93fd5127d8c39561870432fdbc79f598ca8dbf2a3398fc100dfd45f00",
+      "name": "AlphBanX",
+      "symbol": "ABX",
+      "decimals": 9,
+      "description": "AlphBanX is a decentralized lending platform that allows you to borrow AlphBanX Dollars using ALPH as collateral. Choose your own interest rate and bet on liquidations - earning yield from borrowing fees and from liquidated loans.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABX.png"
+    },
+    {
+      "id": "fc8768bcc1392010ad85c179ad6034a1cbdbf7241aba703dcc3883949da99800",
+      "name": "Locked Alephium",
+      "symbol": "LALPH",
+      "decimals": 9,
+      "description": "Locked Alephium is a reward token designed to incentivize long-term commitment, fostering ecosystem growth.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LALPH.png"
+    },
+    {
+      "id": "77697f6c07ddff6cce4fe829915e147cbea6a3ba46e11bab27f1e74731ccac00",
+      "name": "CrystalBeer ",
+      "symbol": "CBEER",
+      "decimals": 18,
+      "description": "CrystalBeer (CBEER) is an innovative cryptocurrency designed to revolutionize payments in bars and support the launch of a unique beer brand, CrystalBeer. Built on blockchain technology, CBEER offers secure and decentralized transactions, fostering a global community of beer lovers and investors. With a vision to connect tradition and innovation, CrystalBeer aims to create an ecosystem where CBEER can be used to pay for drinks and promote partnerships with breweries worldwide. Join us to invest in the future of beer and blockchain!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CBEER.png"
+    },
+    {
+      "id": "7f99758abe1e994e5e3902ad1593eb47ab9e3f794aac5c0b64ac884cd8949300",
+      "name": "ALPHY",
+      "symbol": "APH",
+      "decimals": 18,
+      "description": "Designed for those who embrace their inner alpha, $ALPHY is not just a cryptocurrency—it’s a movement for visionaries who lead the pack.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APH.png"
+    },
+    {
+      "id": "730cd53131847cff0e96343dca544a5fc2417c06c47393d52d6fabf86c977100",
+      "name": "COPE",
+      "symbol": "COPE",
+      "decimals": 10,
+      "description": "COPE",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/COPE.png"
+    },
+    {
+      "id": "a5d15095c60cfaaf28532713e47f233583d6ba797ba8311065294f53f6d18300",
+      "name": "Alph Social Bulls",
+      "symbol": "ASB",
+      "decimals": 5,
+      "description": "Holder of this token has been certified as an Alephium Social Bull",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ASB.png"
+    },
+    {
+      "id": "c135dd39636aac613f5cecc13a31815d1688155381a05a8970cdb09fa6316a00",
+      "name": "AlephiumXMAS",
+      "symbol": "XMAS",
+      "decimals": 10,
+      "description": "This Christmas Eve feels even more special because of your presence here. Thank you for accompanying and supporting me in all situations. Jesus bless you https://www.toekn.com/alephiumxmas",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/XMAS.png"
+    },
+    {
+      "id": "a54f0bc6161540e2ab081876e261a80d4fa0578891112fabd7f7b7fc71e90c00",
+      "name": "HABIBI",
+      "symbol": "HABIBI",
+      "decimals": 6,
+      "description": "Deploying Capital on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HABIBI.png"
+    },
+    {
+      "id": "c96426f749d6f0c970c53ddb554c1c7c12521dd2360d903e78baa57baaa3ff00",
+      "name": "Alph Frens",
+      "symbol": "FRENS",
+      "decimals": 6,
+      "description": "Frens is a person with whom one has a strong bond of affection, loyalty, trust, and mutual support. Frens are individuals who share common interests and values, provide emotional support and encouragement, engage in open communication, show empathy and understanding, stand by each other through life's ups and downs.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FRENS.png"
+    },
+    {
+      "id": "55d8cff57724406735d7fceabc9a850682a248c08591e0eac456a7a0aa59ab00",
+      "name": "Satoshi's Peer",
+      "symbol": "STP",
+      "decimals": 6,
+      "description": "Not just a memecoin, but a memecoin++ Satoshi's Peer (STP) a peer-to-peer crypto designed to democratize and popularize blockchain technology.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/STP.png"
+    },
+    {
+      "id": "fb3925ec10f3c0f4b9b3b833099ba20c9ca624e624ed28b1ffc33d49ee0f6a00",
+      "name": "Mining Sucks Token",
+      "symbol": "MST",
+      "decimals": 2,
+      "description": "Token of the mining pool Mining Sucks",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MST.png"
+    },
+    {
+      "id": "c9666f1847178e97d347eeff8381988bd1ee135fffde6f6b9fc948c00f3c6b00",
+      "name": "AIRDROP",
+      "symbol": "DROP",
+      "decimals": 9,
+      "description": "On Trillion Coins to be airdropped into the Alephium Ecosystem.  ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DROP.png"
+    },
+    {
+      "id": "dfb4f8c828d08c896ba65654a625857410e1b15fed62fb52623a0fff01dc0e00",
+      "name": "SHOTS",
+      "symbol": "SHOTS",
+      "decimals": 2,
+      "description": "??",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SHOTS.png"
+    },
+    {
+      "id": "34754702900c16d9d0bae95efffbf01ec7d81c32e08c036da5e4b57c6a261200",
+      "name": "cowPool",
+      "symbol": "cowp",
+      "decimals": 4,
+      "description": "CowPool.io, a completely different mining pool, led by the community and sharing the mining pool profits.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/cowp.png"
+    },
+    {
+      "id": "bd220ab3a8e5354cb12ca2ef731ba9b1253de3dad64c46d04aa6131592b22b00",
+      "name": "Flouzzz",
+      "symbol": "FLZ",
+      "decimals": 3,
+      "description": "Flouzzz is the money of the magic world of Viraya",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FLZ.png"
     }
   ]
 }
